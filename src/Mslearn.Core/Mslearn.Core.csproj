@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Clean.Architecture.SharedKernel\Mslearn.SharedKernel.csproj" />
+    <ProjectReference Include="..\Mslearn.SharedKernel\Mslearn.SharedKernel.csproj" />
   </ItemGroup>
 
 </Project>

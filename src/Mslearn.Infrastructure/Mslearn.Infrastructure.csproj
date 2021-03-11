@@ -18,7 +18,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\Clean.Architecture.Core\Mslearn.Core.csproj" />
-    <ProjectReference Include="..\Clean.Architecture.SharedKernel\Mslearn.SharedKernel.csproj" />
+    <ProjectReference Include="..\Mslearn.Core\Mslearn.Core.csproj" />
+    <ProjectReference Include="..\Mslearn.SharedKernel\Mslearn.SharedKernel.csproj" />
   </ItemGroup>
 </Project>
